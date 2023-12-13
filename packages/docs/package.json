@@ -13,9 +13,9 @@
     "deploy-storybook": "storybook-to-ghpages"
   },
   "dependencies": {
-    "@ignite-ui/eslint-config": "*",
-    "@ignite-ui/react": "*",
-    "@ignite-ui/tokens": "*",
+    "@joaovfog-ui/eslint-config": "*",
+    "@joaovfog-ui/react": "*",
+    "@joaovfog-ui/tokens": "*",
     "@storybook/addon-a11y": "^7.5.3",
     "phosphor-react": "^1.4.1",
     "react": "^18.2.0",

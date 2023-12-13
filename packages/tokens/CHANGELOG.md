@@ -1,4 +1,10 @@
-# @ignite-ui/tokens
+# @joaovfog-ui/tokens
+
+## 2.1.0
+
+### Minor Changes
+
+- test
 
 ## 2.0.0
 

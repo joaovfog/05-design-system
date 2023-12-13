@@ -1,5 +1,11 @@
 # @joaovfog-ui/tokens
 
+## 2.2.0
+
+### Minor Changes
+
+- add new test black color
+
 ## 2.1.0
 
 ### Minor Changes

@@ -1,5 +1,18 @@
 # @joaovfog-ui/tokens
 
+## 4.0.0
+
+### Major Changes
+
+- a
+
+## 3.0.0
+
+### Major Changes
+
+- teste
+- test
+
 ## 2.3.0
 
 ### Minor Changes
